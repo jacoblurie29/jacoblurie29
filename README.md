@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacob lurie
+<p style="text-align: center;">👋 Hi, I’m Jacob lurie</p>
 - 👀 I’m interested in full-stack web development and iOS development
 - 🌱 I’m currently learning .NET EF Core and Swift 5 development
 - 📖 I’m a junior at Vanderbilt University studying computer science
