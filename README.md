@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 Hi, I’m Jacob lurie
+👋 Hi, I’m Jacob Lurie
 </h1>
 <h3>👀 I’m interested in full-stack web development and iOS development</h3>
 <h3>🌱 I’m currently learning .NET EF Core and Swift 5 development</h3>
