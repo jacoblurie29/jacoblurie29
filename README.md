@@ -1,4 +1,4 @@
-# Hi, I'm Jacob Lurie
+# Hi, I'm Jacob Lurie 👋
 ✏️ I’m interested in full-stack web development and cross-platform mobile development<br>🔭 I’m currently working on the nightlight mobile application<br>🌱 I’m currently learning React-Native and Node/Express/Mongo backend development<br>📫 How to reach me jacoblurie.dev@gmail.com
 
 
