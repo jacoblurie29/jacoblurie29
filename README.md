@@ -6,7 +6,7 @@
 
 - ✏️ I’m interested in **full-stack web development and cross-platform mobile development**
 
-- 🔭 I’m currently working on the [nightlight](https://github.com/nightlight-app) mobile application
+- 🔭 I’m currently working on the **[nightlight](https://github.com/nightlight-app)** mobile application
 
 - 🌱 I’m currently learning **React-Native and Node/Express/Mongo backend development**
 
