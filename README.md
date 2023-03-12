@@ -5,6 +5,9 @@
 <h3>🌱 I’m currently learning React-Native and Node/Express/Mongo backend development</h3>
 <h3>📖 I’m a junior at Vanderbilt University studying computer science</h3>
 <h3>📫 How to reach me: <a href="https://www.linkedin.com/in/jacoblurie29/">https://www.linkedin.com/in/jacoblurie29/</a></h3>
+<p align="center">
+  <img src="https://api.githubtrends.io/user/svg/jacoblurie29/langs?time_range=one_year&include_private=True&compact=True&theme=dark" />
+</p>
 
 <!---
 jacoblurie29/jacoblurie29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
