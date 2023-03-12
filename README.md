@@ -1,6 +1,4 @@
-<h1 align="center" style="display: inline-block">Hi 👋, I'm Jacob Lurie</h1>
-
-<h3 align="center">I'm a computer science major and student-athlete at Vanderbilt University</h3>
+<h3 align="center">Hi 👋, I'm Jacob Lurie. I'm a computer science major and student-athlete at Vanderbilt University</h3>
 
 ---
 
