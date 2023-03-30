@@ -22,7 +22,7 @@
 
 ## ⏰ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#355](https://github.com/VandyHacks/witness/pull/355) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+1. 🎉 Merged PR [#19](https://github.com/nightlight-app/nightlight-backend/pull/19) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
 
 
