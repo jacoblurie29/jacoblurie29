@@ -22,7 +22,7 @@
 
 ## ⏰ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/nightlight-app/nightlight-backend/pull/20) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+1. ❌ Closed PR [#20](https://github.com/nightlight-app/nightlight-backend/pull/20) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
 
 
