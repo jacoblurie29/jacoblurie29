@@ -22,7 +22,7 @@
 
 ## ⏰ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/nightlight-app/nightlight-backend/pull/30) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+1. 🎉 Merged PR [#31](https://github.com/nightlight-app/nightlight-backend/pull/31) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
 
 
