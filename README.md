@@ -20,10 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jacoblurie29&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## ⏰ Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/nightlight-app/nightlight-backend/pull/31) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-<!--END_SECTION:activity-->
-
 
 
