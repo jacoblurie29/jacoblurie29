@@ -1,5 +1,5 @@
 📚 I am a computer science major and student-athlete at **Vanderbilt University**<br>
-✏️ I’m interested in **cross-platform mobile development**<br>🔭 I’m currently working on the **[nightlight](https://github.com/nightlight-app)** mobile application and **[Budgetster](https://github.com/jacoblurie29/Budgetster)** web application<br>🌱 I’m currently learning **Rust API development**<br>📫 How to reach me **jacoblurie.dev@gmail.com**
+✏️ I’m interested in **start-ups, sports technology, full-stack development**<br>🔭 I’m currently working on the [BIO full-stack web application](https://github.com/4278-Project-Team-18/BIO-Frontend)<br>🌱 I’m currently learning **AWS deployment**<br>📫 How to reach me **jacoblurie.dev@gmail.com**
 
 
 ### 🌐 Socials:
