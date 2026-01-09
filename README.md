@@ -1,2 +1,7 @@
-📚 I'm a **Vanderbilt University** computer science alumni and software engineer at **Teamworks**<br>
-✏️ I’m interested in **start-ups, sports technology, full-stack development**<br>🔭 I’m currently working on [RecruitSync](https://www.recruitsync.net)<br>📫 How to reach me **jacoblurie.dev@gmail.com**
+I'm a Vanderbilt University computer science alumni and software engineer at **Teamworks**<br>
+
+In my free time, I'm currently working on:
+
+[RecruitSync](https://www.recruitsync.net/) - Automated recruitment tracking for high school athletes and coaches
+
+[Nomad](https://www.work-nomad.com/) - Disocvery, community, and deals for remote workers
