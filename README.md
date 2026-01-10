@@ -4,4 +4,4 @@ In my free time, I'm currently working on:
 
 [RecruitSync](https://www.recruitsync.net/) - Automated recruitment tracking for high school athletes and coaches
 
-[Nomad](https://www.work-nomad.com/) - Disocvery, community, and deals for remote workers
+[Nomad](https://www.work-nomad.com/) - Discovery, community, and deals for remote workers
